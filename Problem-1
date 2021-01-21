@@ -1,0 +1,20 @@
+# memory < 10KB
+# CPU < 2 THREAD
+
+# Case 1
+# first input 8
+# Second input 5
+# expect output -313400.625
+
+# Case 2
+# first input 6
+# Second input 5
+# expect output -111300.8333333333333334
+
+# Case 3
+# first input 9
+# Second input 2
+# expect output -711180.2222222222222222
+
+
+# you have 10 minute to solve this problem
